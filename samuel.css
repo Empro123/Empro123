@@ -1,0 +1,65 @@
+#what{
+  background-color: green;
+  font-size: 40px;
+  color: white;
+  border-radius: 30px;
+  justify-content: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 10px;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+#TWITTER{
+  background-color: rgb(47, 174, 224);
+  font-size: 50px;
+  color: white;
+  border-radius: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 10px;
+  margin-top: 30px;
+  cursor: pointer;
+}
+
+#P1{
+  font-size: 20PX;
+}
+
+#P2{
+  font-size: 20PX;
+}
+
+#aa1{
+  color: black;
+}
+#aa1:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+#aa1:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+#button{
+  background-color: rgb(14, 80, 14);
+  color: white;
+  margin-top: 20px;
+  font-size: 40px;
+  padding: 10px 10px;
+  border: none;
+  cursor: pointer;
+}
+
+#code{
+  background-color: rgb(109, 6, 42);
+  color: white;
+  border: none;
+  font-size: 20px;
+  margin-top: 20px;
+  padding: 18px 18px;
+  cursor: pointer;
+}
